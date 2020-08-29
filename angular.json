@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-auth-ngrx"
+    }
+  },
+  "defaultProject": "angular-auth-ngrx",
+  "cli": {
+    "analytics": false
+  }
 }
